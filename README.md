@@ -19,4 +19,6 @@
 
 ## 2. Программирование для детей
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
-* 
+
+## 3. HTML - веб программирование
+* https://ishadeed.com/article/learn-css-positioning/ - CSS сборник уроков 
