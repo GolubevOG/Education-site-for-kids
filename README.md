@@ -22,3 +22,12 @@
 
 ## 3. HTML - веб программирование
 * https://ishadeed.com/article/learn-css-positioning/ - CSS сборник уроков 
+
+## 4. Визуальное программирование
+* https://arcade.makecode.com/ - создание игр от Microsoft
+* https://code.irobot.com/#/ - визуальное программирование Робота - пылесоса
+* https://www.codeforlife.education/rapidrouter/ - программирование Микроавтобуса для прохождения трассы, начинается как блочное программирование, а потом есть плавный переход к Python
+* https://studio.code.org/projects/spritelab/new - создание простейшей анимации с помощью блоков
+* https://studio.code.org/projects/artist/new - рисователь с помощью блоков
+* https://studio.code.org/projects/applab/new - создание приложений для мобильного телефона с помощью блоков
+* https://studio.code.org/projects/gamelab/new - создание игра с помощью блоков
