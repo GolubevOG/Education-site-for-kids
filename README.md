@@ -19,9 +19,11 @@
 
 ## 2. Программирование для детей
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
+* http://www.toxicode.fr/ - "silent teacher" - сборник упражнений для понимания основ языка
 
 ## 3. HTML - веб программирование
 * https://ishadeed.com/article/learn-css-positioning/ - CSS сборник уроков 
+* https://www.codemoji.com/ - создание сайтов для самых маленьких
 
 ## 4. Визуальное программирование
 * https://arcade.makecode.com/ - создание игр от Microsoft
@@ -31,3 +33,8 @@
 * https://studio.code.org/projects/artist/new - рисователь с помощью блоков
 * https://studio.code.org/projects/applab/new - создание приложений для мобильного телефона с помощью блоков
 * https://studio.code.org/projects/gamelab/new - создание игра с помощью блоков
+* https://make.gamefroot.com/#/games/new - создание игр, продвинутая версия Scratch
+
+## 10. Головоломки по алгоритмам
+* http://compute-it.toxicode.fr/ - прочитать код и выполнить
+* http://little-dot.toxicode.fr/ - сделать код на основе готовых блоков
