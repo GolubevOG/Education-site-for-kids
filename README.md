@@ -7,7 +7,8 @@
 * __tuxpaint__ - отличная рисовалка для детей
 * __minetest__ - аналог MineCraft, но бесплатный и быстрый
 
-# Игры и сайты для детей
+# Игры и сайты для детей по Computer Science
+
 ## 0. Подборки разных подборок
 * https://www.kidsafeseal.com/certifiedproducts.html - подбрка Американской программы сертифицированных сайтов
 
@@ -23,6 +24,7 @@
 
 ## 3. HTML - веб программирование
 * https://ishadeed.com/article/learn-css-positioning/ - CSS сборник уроков 
+* https://websitesetup.org/html5-periodical-table/ - Периодическая таблица тегов, с этого сайта можно перейти на официальную документацию
 * https://www.codemoji.com/ - создание сайтов для самых маленьких
 
 ## 4. Визуальное программирование
@@ -38,3 +40,7 @@
 ## 10. Головоломки по алгоритмам
 * http://compute-it.toxicode.fr/ - прочитать код и выполнить
 * http://little-dot.toxicode.fr/ - сделать код на основе готовых блоков
+
+## 11.Сборник теории по разным темам
+* https://www.w3schools.com/ - теориии по web программированию с примерами
+* https://devdocs.io/ - сбоник web по разным темам
