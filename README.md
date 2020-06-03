@@ -18,7 +18,7 @@
 * https://santatracker.google.com/ - подборка игр перед новым годом
 * https://www.mathplayground.com/ - подбрка математических игр
 
-## 2. Программирование для детей
+## 2. Программирование для детей - игры
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
 * http://www.toxicode.fr/ - "silent teacher" - сборник упражнений для понимания основ языка
 
@@ -36,11 +36,20 @@
 * https://studio.code.org/projects/gamelab/new - создание игра с помощью блоков
 * https://make.gamefroot.com/#/games/new - создание игр, продвинутая версия Scratch
 
+## 5. Обучение программированию на Python
+* https://codetheblocks.com/ - 3d кубики, различное рисование
+* https://cscircles.cemc.uwaterloo.ca/ - хорошая подборка упражнений по всем темам, но EN
+* https://runestone.academy/runestone/books/published/thinkcspy/index.html# - самоучитель
+
+
 ## 10. Головоломки по алгоритмам
 * http://compute-it.toxicode.fr/ - прочитать код и выполнить
 * http://little-dot.toxicode.fr/ - сделать код на основе готовых блоков
 
-## 11.Сборник теории по разным темам
+## 11. Сборник теории по разным темам
 * https://www.w3schools.com/ - теориии по web программированию с примерами
 * https://devdocs.io/ - сбоник документации по разным языкам и фреймворкам
 * https://websitesetup.org/html5-periodical-table/ - Периодическая таблица тегов, с этого сайта можно перейти на официальную документацию
+
+## 12. Сборник задач по разным языкам
+* https://app.codesignal.com/ - отличная подборка
