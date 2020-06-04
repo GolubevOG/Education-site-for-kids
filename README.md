@@ -50,6 +50,14 @@
 * https://www.w3schools.com/ - теориии по web программированию с примерами
 * https://devdocs.io/ - сбоник документации по разным языкам и фреймворкам
 * https://websitesetup.org/html5-periodical-table/ - Периодическая таблица тегов, с этого сайта можно перейти на официальную документацию
+* https://www.jetbrains.com/ru-ru/academy/ - Академия JetBrains - разные темы с задачами и теорией
 
 ## 12. Сборник задач по разным языкам
 * https://app.codesignal.com/ - отличная подборка
+
+
+## 14. IDE и online IDE
+* https://thonny.org/ - лучший IDE для начала программирования на Python
+* http://repl.it/ - лучший онлайн IDE для разных языков и сред
+* https://gitpod.io/ - онлайн аналог VSCode
+
