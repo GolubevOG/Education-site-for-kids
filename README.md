@@ -35,6 +35,7 @@
 * https://studio.code.org/projects/applab/new - создание приложений для мобильного телефона с помощью блоков
 * https://studio.code.org/projects/gamelab/new - создание игра с помощью блоков
 * https://make.gamefroot.com/#/games/new - создание игр, продвинутая версия Scratch
+* https://robogarden.ca/ - робот, управляется блоками, много разных заданий. в том числе mincraft, есть какие-то уровни закрыты, непонятно сто с оплатой
 
 ## 5. Обучение программированию на Python
 * https://codetheblocks.com/ - 3d кубики, различное рисование
