@@ -44,6 +44,7 @@
 * https://dabeaz-course.github.io/practical-python/ - полный курс по Pyhton, но EN
 
 
+
 ## 10. Головоломки по алгоритмам
 * http://compute-it.toxicode.fr/ - прочитать код и выполнить
 * http://little-dot.toxicode.fr/ - сделать код на основе готовых блоков
@@ -56,6 +57,7 @@
 
 ## 12. Сборник задач по разным языкам
 * https://app.codesignal.com/ - отличная подборка
+* https://exercism.io/ - en много разных задач по разным языкам
 
 
 ## 14. IDE и online IDE
