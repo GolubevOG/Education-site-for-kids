@@ -41,6 +41,7 @@
 * https://codetheblocks.com/ - 3d кубики, различное рисование
 * https://cscircles.cemc.uwaterloo.ca/ - хорошая подборка упражнений по всем темам, но EN
 * https://runestone.academy/runestone/books/published/thinkcspy/index.html# - самоучитель
+* https://dabeaz-course.github.io/practical-python/ - полный курс по Pyhton, но EN
 
 
 ## 10. Головоломки по алгоритмам
@@ -62,3 +63,8 @@
 * http://repl.it/ - лучший онлайн IDE для разных языков и сред
 * https://gitpod.io/ - онлайн аналог VSCode
 
+## 15. 3D и Lego
+* https://mecabricks.com/ru/workshop - Lego создание Online
+* https://usecubes.com/design - рисование с помощью кубиков, очень простое
+* https://www.3dslash.net/index.php - 3d рисование
+* http://www.newart.ru/htm/flash/risovalka_14.php - симпатичная рисовалка 3d
