@@ -31,6 +31,7 @@
 ## 4. Визуальное программирование
 * https://arcade.makecode.com/ - создание игр от Microsoft
 * https://code.irobot.com/#/ - визуальное программирование Робота - пылесоса
+* http://dragonarchitect.net/play/latest/ - визуальное программирование блоками Дракончика, который двигается по полю и может рисовать кубиками
 * https://www.codeforlife.education/rapidrouter/ - программирование Микроавтобуса для прохождения трассы, начинается как блочное программирование, а потом есть плавный переход к Python
 * https://studio.code.org/projects/spritelab/new - создание простейшей анимации с помощью блоков
 * https://studio.code.org/projects/artist/new - рисователь с помощью блоков
@@ -53,9 +54,11 @@
 ## 5.2 Обучение программированию на Golang
 * https://www.learn-golang.org/ - En примеры кода с заданиями
 * https://gobyexample.com/ - Go на примерах
+* https://github.com/hoanhan101/ultimate-go - гид по обучению языку
 
 ## 5.3 Обучение программированию на SQL
 * https://www.learnsqlonline.org/ - En примеры кода с заданиями
+* https://sqlbolt.com/lesson/introduction - поашаговые урокм 
 
 ## 5.4 Обучение программированию на JavaScript
 * https://www.learn-js.org/ - En примеры кода с заданиями
