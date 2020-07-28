@@ -45,6 +45,7 @@
 
 
 
+
 ## 10. Головоломки по алгоритмам
 * http://compute-it.toxicode.fr/ - прочитать код и выполнить
 * http://little-dot.toxicode.fr/ - сделать код на основе готовых блоков
@@ -56,8 +57,9 @@
 * https://www.jetbrains.com/ru-ru/academy/ - Академия JetBrains - разные темы с задачами и теорией
 
 ## 12. Сборник задач по разным языкам
-* https://app.codesignal.com/ - отличная подборка
-* https://exercism.io/ - en много разных задач по разным языкам
+* https://app.codesignal.com/ - отличная подборка, целый трек по задачам, сразу проверка
+* https://exercism.io/ - en много разных задач по разным языкам Python, Go, нужно работать через установку CLI
+* https://edabit.com/ - en задачки, можно решать на разных языках, включая Python, интерактивная проверка
 
 
 ## 14. IDE и online IDE
