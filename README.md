@@ -24,7 +24,9 @@
 
 ## 3. HTML - веб программирование
 * https://ishadeed.com/article/learn-css-positioning/ - CSS сборник уроков 
+* https://marksheet.io/ - пошаговое руководство по изучению HTML+CSS+js
 * https://www.codemoji.com/ - создание сайтов для самых маленьких
+* https://codebra.ru/ - сборник теории и заданий HTML+CSS+Js - RU
 
 ## 4. Визуальное программирование
 * https://arcade.makecode.com/ - создание игр от Microsoft
@@ -37,13 +39,30 @@
 * https://make.gamefroot.com/#/games/new - создание игр, продвинутая версия Scratch
 * https://robogarden.ca/ - робот, управляется блоками, много разных заданий. в том числе mincraft, есть какие-то уровни закрыты, непонятно сто с оплатой
 
-## 5. Обучение программированию на Python
+## 5 Обучение программированию c с примерами
+* https://hackr.io/ - подборки курсов на разных языках
+* https://scotch.io/ - разные темы en в том числе web программирование
+
+## 5.1 Обучение программированию на Python
 * https://codetheblocks.com/ - 3d кубики, различное рисование
 * https://cscircles.cemc.uwaterloo.ca/ - хорошая подборка упражнений по всем темам, но EN
 * https://runestone.academy/runestone/books/published/thinkcspy/index.html# - самоучитель
 * https://dabeaz-course.github.io/practical-python/ - полный курс по Pyhton, но EN
+* https://www.learnpython.org/ - En примеры кода с заданиями
 
+## 5.2 Обучение программированию на Golang
+* https://www.learn-golang.org/ - En примеры кода с заданиями
+* https://gobyexample.com/ - Go на примерах
 
+## 5.3 Обучение программированию на SQL
+* https://www.learnsqlonline.org/ - En примеры кода с заданиями
+
+## 5.4 Обучение программированию на JavaScript
+* https://www.learn-js.org/ - En примеры кода с заданиями
+
+## 5.5 Машинное обучение
+* https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
+* https://machinelearningforkids.co.uk/ - Машинное обучение для детей EN
 
 
 ## 10. Головоломки по алгоритмам
@@ -55,6 +74,7 @@
 * https://devdocs.io/ - сбоник документации по разным языкам и фреймворкам
 * https://websitesetup.org/html5-periodical-table/ - Периодическая таблица тегов, с этого сайта можно перейти на официальную документацию
 * https://www.jetbrains.com/ru-ru/academy/ - Академия JetBrains - разные темы с задачами и теорией
+
 
 ## 12. Сборник задач по разным языкам
 * https://app.codesignal.com/ - отличная подборка, целый трек по задачам, сразу проверка
