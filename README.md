@@ -56,6 +56,7 @@
 * https://gobyexample.com/ - Go на примерах
 * https://github.com/hoanhan101/ultimate-go - гид по обучению языку
 * https://golangs.org/ - курс на русском языке
+* https://github.com/hoanhan101/ultimate-go - ultimate guid for Go
 
 ## 5.3 Обучение программированию на SQL
 * https://www.learnsqlonline.org/ - En примеры кода с заданиями
