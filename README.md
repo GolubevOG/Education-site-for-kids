@@ -67,6 +67,7 @@
 ## 5.4 Обучение программированию на JavaScript
 * https://www.learn-js.org/ - En примеры кода с заданиями
 * https://js14min.github.io/ - интерактивный учебник по js
+* https://www.edopedia.com/blog/open-source-html5-and-javascript-games/ - примеры игр и небольшой учебник
 
 ## 5.5 Машинное обучение
 * https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
