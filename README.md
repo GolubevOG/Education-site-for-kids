@@ -28,7 +28,7 @@
 * https://www.codemoji.com/ - создание сайтов для самых маленьких
 * https://codebra.ru/ - сборник теории и заданий HTML+CSS+Js - RU
 * http://old.code.mu/ - учбеники, задачники, справочники
-** https://devdocs.io/ - хороший справочник по всем темам
+* https://devdocs.io/ - хороший справочник по всем темам
 
 ## 4. Визуальное программирование
 * https://arcade.makecode.com/ - создание игр от Microsoft
