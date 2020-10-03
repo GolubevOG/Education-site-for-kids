@@ -30,6 +30,9 @@
 * http://old.code.mu/ - учбеники, задачники, справочники
 * https://devdocs.io/ - хороший справочник по всем темам
 
+## 3.1 HTML + CSS игры
+* https://daggasoft.com/play/supermarkupworld/ - проходи уровни  создавай блоки
+
 ## 4. Визуальное программирование
 * https://arcade.makecode.com/ - создание игр от Microsoft
 * https://code.irobot.com/#/ - визуальное программирование Робота - пылесоса
