@@ -31,7 +31,8 @@
 * https://devdocs.io/ - хороший справочник по всем темам
 
 ## 3.1 HTML + CSS игры
-* https://daggasoft.com/play/supermarkupworld/ - проходи уровни  создавай блоки
+* https://daggasoft.com/play/supermarkupworld/ - проходи уровни  создавай блоки HTML
+* https://game.eraseallkittens.com/en/play/ - HTML мир, который нужно проходить с помощью котиков (EN)
 
 ## 4. Визуальное программирование
 * https://arcade.makecode.com/ - создание игр от Microsoft
