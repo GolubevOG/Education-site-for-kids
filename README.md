@@ -75,6 +75,7 @@
 ## 5.3 Обучение программированию на SQL
 * https://www.learnsqlonline.org/ - En примеры кода с заданиями
 * https://sqlbolt.com/lesson/introduction - поашаговые урокм 
+* https://mystery.knightlab.com/ - игра, необходимо расследовать преступление, для этого нужно покопаться в базе данных полицейского департамента EN
 
 ## 5.4 Обучение программированию на JavaScript
 * https://www.learn-js.org/ - En примеры кода с заданиями
