@@ -30,6 +30,8 @@
 * http://old.code.mu/ - учбеники, задачники, справочники
 * https://devdocs.io/ - хороший справочник по всем темам
 * https://rupl.github.io/unfold - демонстрация возможностей CSS
+* https://nocode.works/ - создание собственного сайта без программирования, только силами документов google 
+* https://webflow.com/ - создание профессионального сайта из шаблонов
 
 ## 3.1 HTML + CSS игры
 * https://daggasoft.com/play/supermarkupworld/ - проходи уровни  создавай блоки HTML
