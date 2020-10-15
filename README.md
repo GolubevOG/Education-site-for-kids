@@ -29,7 +29,6 @@
 * https://codebra.ru/ - сборник теории и заданий HTML+CSS+Js - RU
 * http://old.code.mu/ - учбеники, задачники, справочники
 * https://devdocs.io/ - хороший справочник по всем темам
-* https://rupl.github.io/unfold - демонстрация возможностей CSS
 * https://nocode.works/ - создание собственного сайта без программирования, только силами документов google 
 * https://webflow.com/ - создание профессионального сайта из шаблонов
 
@@ -40,6 +39,10 @@
 * https://flexboxfroggy.com
 * https://cssgridgarden.com
 * http://flukeout.github.io - CSS diner
+
+## 3.2 HTML + CSS - демонстрация возможностей и визуальные полезности для занятий
+* https://www.webdesignmuseum.org/timeline - музей дизайна, как выглядили сайты раньше
+* https://rupl.github.io/unfold - демонстрация возможностей CSS
 
 
 ## 4. Визуальное программирование
