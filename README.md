@@ -113,6 +113,7 @@
 * https://thonny.org/ - лучший IDE для начала программирования на Python
 * http://repl.it/ - лучший онлайн IDE для разных языков и сред
 * https://gitpod.io/ - онлайн аналог VSCode
+* https://tech.io/ - платформа где можно поделиться кодом, а человек может его сразу запустить
 
 ## 15. 3D и Lego
 * https://mecabricks.com/ru/workshop - Lego создание Online
