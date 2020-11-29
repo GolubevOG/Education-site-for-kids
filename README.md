@@ -63,6 +63,7 @@
 * https://hackr.io/ - подборки курсов на разных языках
 * https://scotch.io/ - разные темы en в том числе web программирование
 * https://app.codesignal.com/arcade - сборник заданий по программированию
+* https://ru.code-basics.com/ - задачник, разные языки программирования
 
 ## 5.1 Обучение программированию на Python
 * https://codetheblocks.com/ - 3d кубики, различное рисование
