@@ -85,6 +85,7 @@
 * https://mystery.knightlab.com/ - игра, необходимо расследовать преступление, для этого нужно покопаться в базе данных полицейского департамента EN
 
 ## 5.4 Обучение программированию на JavaScript
+* https://lab.reaal.me/jsrobot/ - игра про робота JSRobots
 * https://www.learn-js.org/ - En примеры кода с заданиями
 * https://js14min.github.io/ - интерактивный учебник по js
 * https://www.edopedia.com/blog/open-source-html5-and-javascript-games/ - примеры игр и небольшой учебник
@@ -103,6 +104,7 @@
 * https://devdocs.io/ - сбоник документации по разным языкам и фреймворкам
 * https://websitesetup.org/html5-periodical-table/ - Периодическая таблица тегов, с этого сайта можно перейти на официальную документацию
 * https://www.jetbrains.com/ru-ru/academy/ - Академия JetBrains - разные темы с задачами и теорией
+* https://ru.code-basics.com/ - разные языки, разные задачи (Js, Python, Ruby, Jawa, Php)
 
 
 ## 12. Сборник задач по разным языкам
