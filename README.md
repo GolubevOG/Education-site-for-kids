@@ -134,4 +134,6 @@
 * https://vr.vex.com/ - робототехника Онлайн, vex перенесенный в среду Scratch
 * https://education.vex.com/vr/ - база знаний для онлайн Робототехники
 
-
+## 18. Логические схемы
+* https://logic.ly/demo - логические схема, симуляция онлайн
+* https://simulator.io/board - логика
