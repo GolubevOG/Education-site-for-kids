@@ -105,6 +105,8 @@
 * https://websitesetup.org/html5-periodical-table/ - Периодическая таблица тегов, с этого сайта можно перейти на официальную документацию
 * https://www.jetbrains.com/ru-ru/academy/ - Академия JetBrains - разные темы с задачами и теорией
 * https://ru.code-basics.com/ - разные языки, разные задачи (Js, Python, Ruby, Jawa, Php)
+* https://visualgo.net/ru - визуализация различных алгоритмов
+* http://www.algoanim.ide.sk/ - визуализация алгоритмов
 
 
 ## 12. Сборник задач по разным языкам
