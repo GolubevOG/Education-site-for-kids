@@ -72,6 +72,7 @@
 * https://runestone.academy/runestone/books/published/thinkcspy/index.html# - самоучитель
 * https://dabeaz-course.github.io/practical-python/ - полный курс по Pyhton, но EN
 * https://www.learnpython.org/ - En примеры кода с заданиями
+* https://gto76.github.io/python-cheatsheet/ - большеая и подробная шпаргалка
 
 ## 5.2 Обучение программированию на Golang
 * https://www.learn-golang.org/ - En примеры кода с заданиями
@@ -90,6 +91,7 @@
 * https://www.learn-js.org/ - En примеры кода с заданиями
 * https://js14min.github.io/ - интерактивный учебник по js
 * https://www.edopedia.com/blog/open-source-html5-and-javascript-games/ - примеры игр и небольшой учебник
+* https://javascriptwtf.com/ - примеры странных вещей в JS
 
 ## 5.5 Машинное обучение
 * https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
