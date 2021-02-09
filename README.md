@@ -148,3 +148,6 @@
 * https://logic.ly/demo - логические схема, симуляция онлайн
 * https://simulator.io/board - логика
 * https://nandgame.com/ - отличная игра по логическим элементам
+
+## 19. Разное
+* https://keyma.sh/ - клавиатурный тренажер
