@@ -154,3 +154,5 @@
 
 ## 20. Рисование
 * https://bezier.method.ac/ - тренажер рисования кривыми
+* http://sculptgl.ru/ - 3D рисование голов
+* https://writereader.com/ - создание книжек для детей
