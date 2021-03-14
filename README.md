@@ -39,6 +39,7 @@
 * https://flexboxfroggy.com
 * https://cssgridgarden.com
 * http://flukeout.github.io - CSS diner
+* https://codepip.com/games/css-surgeon/ - про позиционирование элементов
 
 ## 3.2 HTML + CSS - демонстрация возможностей и визуальные полезности для занятий
 * https://www.webdesignmuseum.org/timeline - музей дизайна, как выглядили сайты раньше
