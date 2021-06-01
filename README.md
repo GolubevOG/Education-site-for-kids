@@ -75,6 +75,7 @@
 * https://dabeaz-course.github.io/practical-python/ - полный курс по Pyhton, но EN
 * https://www.learnpython.org/ - En примеры кода с заданиями
 * https://gto76.github.io/python-cheatsheet/ - большеая и подробная шпаргалка
+* https://app.edublocks.org/ 
 
 ## 5.2 Обучение программированию на Golang
 * https://www.learn-golang.org/ - En примеры кода с заданиями
