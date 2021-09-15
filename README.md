@@ -33,6 +33,7 @@
 * https://nocode.works/ - создание собственного сайта без программирования, только силами документов google 
 * https://webflow.com/ - создание профессионального сайта из шаблонов
 
+
 ## 3.1 HTML + CSS игры
 * https://daggasoft.com/play/supermarkupworld/ - проходи уровни  создавай блоки HTML
 * https://game.eraseallkittens.com/en/play/ - HTML мир, который нужно проходить с помощью котиков (EN)
@@ -91,11 +92,13 @@
 
 ## 5.4 Обучение программированию на JavaScript
 * https://lab.reaal.me/jsrobot/ - игра про робота JSRobots
+* https://yare.io/ - игра про космические корабли на Js
 * https://www.learn-js.org/ - En примеры кода с заданиями
 * https://js14min.github.io/ - интерактивный учебник по js
 * https://www.edopedia.com/blog/open-source-html5-and-javascript-games/ - примеры игр и небольшой учебник
 * https://javascriptwtf.com/ - примеры странных вещей в JS
 * https://axma.info/ - создание текстовых квестов на js
+* https://grasshopper.app/ - приложение по обучению программированию на Js для детей 
 
 ## 5.5 Машинное обучение
 * https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
