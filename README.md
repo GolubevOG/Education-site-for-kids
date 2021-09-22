@@ -42,6 +42,7 @@
 * https://cssgridgarden.com
 * http://flukeout.github.io - CSS diner
 * https://codepip.com/games/css-surgeon/ - про позиционирование элементов
+* https://staging.edublocks.org/ - создание сайтов в блочно Scratch
 
 ## 3.2 HTML + CSS - демонстрация возможностей и визуальные полезности для занятий
 * https://www.webdesignmuseum.org/timeline - музей дизайна, как выглядили сайты раньше
@@ -136,6 +137,8 @@
 * https://usecubes.com/design - рисование с помощью кубиков, очень простое
 * https://www.3dslash.net/index.php - 3d рисование
 * http://www.newart.ru/htm/flash/risovalka_14.php - симпатичная рисовалка 3d
+* https://goxel.xyz/live/ - 3D рисовалка voxel
+
 
 ## 16. Дополнительные онлайн инструменты
 * https://footage.app/ - создание коротких видео из шаблонов
