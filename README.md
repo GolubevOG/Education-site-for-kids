@@ -36,6 +36,7 @@
 
 ## 3.1 HTML + CSS игры
 * https://daggasoft.com/play/supermarkupworld/ - проходи уровни  создавай блоки HTML
+* https://eraseallkittens.com/ - HTML изучение через построения мира из тегов
 * https://game.eraseallkittens.com/en/play/ - HTML мир, который нужно проходить с помощью котиков (EN)
 * http://www.flexboxdefense.com - flexbox defence
 * https://flexboxfroggy.com
