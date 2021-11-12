@@ -17,6 +17,7 @@
 * https://www.coolmathgames.com/ - лучшая подборка логических игр, но есть сложности в Flash
 * https://santatracker.google.com/ - подборка игр перед новым годом
 * https://www.mathplayground.com/ - подбрка математических игр
+* http://www.toxicode.fr/black_box - как работает черный ящик
 
 ## 2. Программирование для детей - игры
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
