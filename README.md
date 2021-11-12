@@ -101,6 +101,8 @@
 * https://javascriptwtf.com/ - примеры странных вещей в JS
 * https://axma.info/ - создание текстовых квестов на js
 * https://grasshopper.app/ - приложение по обучению программированию на Js для детей 
+* https://www.code-dj.com/hourofcode/ - программирование как создание музыки
+* https://silentteacher.toxicode.fr/ - обучение в выполнении последовательных действий
 
 ## 5.5 Машинное обучение
 * https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
