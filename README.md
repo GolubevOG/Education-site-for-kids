@@ -108,6 +108,7 @@
 ## 5.5 Машинное обучение
 * https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
 * https://machinelearningforkids.co.uk/ - Машинное обучение для детей EN
+* https://ml-handbook.ru/ - учебник от Яндекс
 
 ## 6. Low-code NoCode
 * https://breshna.io/ - создание игр без кода или программирования
