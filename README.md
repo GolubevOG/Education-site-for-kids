@@ -109,6 +109,9 @@
 * https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
 * https://machinelearningforkids.co.uk/ - Машинное обучение для детей EN
 
+## 6. Low-code NoCode
+* https://breshna.io/ - создание игр без кода или программирования
+* 
 
 ## 10. Головоломки по алгоритмам
 * http://compute-it.toxicode.fr/ - прочитать код и выполнить
@@ -165,6 +168,8 @@
 
 ## 19. Разное
 * https://keyma.sh/ - клавиатурный тренажер
+* https://kenney.nl/assets - тайлы, сборник бесплатных assetов для игр
+*
 
 ## 20. Рисование
 * https://bezier.method.ac/ - тренажер рисования кривыми
@@ -175,3 +180,4 @@
 ## 21. Создание игр. Game development
 * https://breshna.io/ - no-code создание игр
 * https://www.adventurebox.com/ - предельно простое создание игр в 3d
+* https://www.umaigra.com/ - создание образовательных игр
