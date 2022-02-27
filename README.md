@@ -116,6 +116,7 @@
 
 ## 7. Git
 * https://ohmygit.org/ - игра про Github
+* https://learngitbranching.js.org/ - игра на создание branch и всего подобного
 
 
 ## 10. Головоломки по алгоритмам
