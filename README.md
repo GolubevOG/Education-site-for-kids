@@ -184,6 +184,7 @@
 * http://sculptgl.ru/ - 3D рисование голов
 * https://writereader.com/ - создание книжек для детей
 * https://sumo.app/ - рисование кистями
+* https://aggie.io/ - совместное рисование
 
 ## 21. Создание игр. Game development
 * https://breshna.io/ - no-code создание игр
