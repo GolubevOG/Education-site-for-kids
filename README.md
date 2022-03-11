@@ -64,6 +64,7 @@
 * https://gdevelop-app.com/ - создание простейших игр
 * https://flowlab.io/ - визуальное создание, сильные ограничения в бесплатной версии
 * http://echa.ru/gm/prtc/ - программирование робота на вымышленном языке
+* https://www.w3schools.com/codegame/index.html - несколько головоломок в стиле LightBot
 
 ## 5 Обучение программированию c примерами
 * https://hackr.io/ - подборки курсов на разных языках
@@ -185,6 +186,7 @@
 * https://writereader.com/ - создание книжек для детей
 * https://sumo.app/ - рисование кистями
 * https://aggie.io/ - совместное рисование
+* https://www.magiceraser.io/ - удаление объектов с картинки
 
 ## 21. Создание игр. Game development
 * https://breshna.io/ - no-code создание игр
