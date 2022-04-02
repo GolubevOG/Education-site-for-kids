@@ -22,6 +22,7 @@
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
 * http://www.toxicode.fr/ - "silent teacher" - сборник упражнений для понимания основ языка
 * https://kiddo.academy/ - простейшее программирование для детей енотом
+* https://terminaltwo.com/dashboard/games - сборник игр на программирование
 
 ## 3. HTML - веб программирование
 * https://ishadeed.com/article/learn-css-positioning/ - CSS сборник уроков 
