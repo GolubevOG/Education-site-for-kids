@@ -50,6 +50,7 @@
 * https://www.webdesignmuseum.org/timeline - музей дизайна, как выглядили сайты раньше
 * https://rupl.github.io/unfold - демонстрация возможностей CSS
 * https://css-transform.moro.es/ - готовые примеры как делать тот или иной CSS эффект с трансформацией
+* https://animista.net/ - коллекция различных анимационных эффектов для CSS
 
 
 ## 4. Визуальное программирование
