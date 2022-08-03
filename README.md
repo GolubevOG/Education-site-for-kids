@@ -110,6 +110,7 @@
 * https://grasshopper.app/ - приложение по обучению программированию на Js для детей 
 * https://www.code-dj.com/hourofcode/ - программирование как создание музыки
 * https://silentteacher.toxicode.fr/ - обучение в выполнении последовательных действий
+* https://yare.io/ - игра, стратегия с помощью кода JS
 
 ## 5.5 Машинное обучение
 * https://stepik.org/course/71439/syllabus - Машинное обучение для преподавателей
