@@ -70,6 +70,7 @@
 * https://flowlab.io/ - визуальное создание, сильные ограничения в бесплатной версии
 * http://echa.ru/gm/prtc/ - программирование робота на вымышленном языке
 * https://www.w3schools.com/codegame/index.html - несколько головоломок в стиле LightBot
+* https://visualmodder.org/ - minecraft vusial blokly - создание кода в визуальном редакторе
 
 ## 5 Обучение программированию c примерами
 * https://hackr.io/ - подборки курсов на разных языках
