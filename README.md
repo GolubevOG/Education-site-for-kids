@@ -80,6 +80,13 @@
 * https://app.codesignal.com/arcade - сборник заданий по программированию
 * https://ru.code-basics.com/ - задачник, разные языки программирования
 * https://interviewsandbox.com/ - проведение собеседования онлайн
+  
+### Обучающие материалы от Яндекса
+https://academy.yandex.ru/handbook - Хэндбуки  Академии Яндекса
+https://academy.yandex.ru/handbook/python - основы Python от Яндекс
+https://academy.yandex.ru/handbook/cpp - основы C++ от Яндекс
+https://academy.yandex.ru/handbook/ml - учебник по машинному обучению от Яндекс
+https://coderun.yandex.ru/catalog - задачник
 
 ## 5.1 Обучение программированию на Python
 * https://codetheblocks.com/ - 3d кубики, различное рисование
