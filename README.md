@@ -17,6 +17,7 @@
 * https://santatracker.google.com/ - подборка игр перед новым годом
 * https://www.mathplayground.com/ - подбрка математических игр
 * http://www.toxicode.fr/black_box - как работает черный ящик
+* https://playset.netlify.app/ - игра SET
 
 ## 2. Программирование для детей - игры
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
@@ -33,6 +34,7 @@
 * https://devdocs.io/ - хороший справочник по всем темам
 * https://nocode.works/ - создание собственного сайта без программирования, только силами документов google 
 * https://webflow.com/ - создание профессионального сайта из шаблонов
+* https://sites.aspect.app/ - создание сайтов перетаскиванием
 
 
 ## 3.1 HTML + CSS игры
@@ -173,6 +175,13 @@
 * https://genial.ly/ - создание интерактивных презентаций и самоучителей
 * https://estory.io/ - создение timeline 
 * https://commonmark.org/help/tutorial/ - интерактивный тренажер markdown
+* https://commonmark.org/help/tutorial/ - интерактивный учебник по markdown
+
+### 16.1 Онлайн доски
+* https://sboard.online/teams - аналог Miro
+
+### 16.1 Онлайн изучение музыки
+* https://muted.io/ - изучение музыки
 
 ## 17. Онлайн робототехника
 * https://vr.vex.com/ - робототехника Онлайн, vex перенесенный в среду Scratch
@@ -182,11 +191,13 @@
 * https://logic.ly/demo - логические схема, симуляция онлайн
 * https://simulator.io/board - логика
 * https://nandgame.com/ - отличная игра по логическим элементам
+* https://wokwi.com/ - электрические схемы
 
 ## 19. Разное
 * https://keyma.sh/ - клавиатурный тренажер
 * https://kenney.nl/assets - тайлы, сборник бесплатных assetов для игр
 * https://www.compumuseum.com/ - компьютерный музей онлайн с эмуляторами разных компьютеров
+* https://mularahul.github.io/keyviz/ - программа, которая визуализирует нажатия клавиш во время демонстраций
 
 ## 20. Рисование
 * https://bezier.method.ac/ - тренажер рисования кривыми
@@ -195,6 +206,7 @@
 * https://sumo.app/ - рисование кистями
 * https://aggie.io/ - совместное рисование
 * https://www.magiceraser.io/ - удаление объектов с картинки
+* https://www.wickeditor.com/editor/ - создание HTML-5 анимации в стиле Flash
 
 ## 21. Создание игр. Game development
 * https://breshna.io/ - no-code создание игр
@@ -204,3 +216,5 @@
 
 ## 22. Математика
 * https://sinerider.com/ - игра, где нужно правильно написать график функции, чтобы санки поехали правильно
+
+
