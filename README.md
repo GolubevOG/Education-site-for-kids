@@ -18,6 +18,7 @@
 * https://www.mathplayground.com/ - подбрка математических игр
 * http://www.toxicode.fr/black_box - как работает черный ящик
 * https://playset.netlify.app/ - игра SET
+* https://github.com/readyready15728/awesome-programming-games - большая подборка программистких игр
 
 ## 2. Программирование для детей - игры
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
@@ -184,7 +185,8 @@
 * https://genial.ly/ - создание интерактивных презентаций и самоучителей
 * https://estory.io/ - создение timeline 
 * https://commonmark.org/help/tutorial/ - интерактивный тренажер markdown
-* https://commonmark.org/help/tutorial/ - интерактивный учебник по markdown
+* https://wordmint.com/ - создание кроссворда
+* https://www.compumuseum.com/ - компьютерный музей и эмуляцией разных компьютеров
 
 ### 16.1 Онлайн доски
 * https://sboard.online/teams - аналог Miro
