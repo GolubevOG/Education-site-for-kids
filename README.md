@@ -158,6 +158,7 @@
 * https://exercism.io/ - en много разных задач по разным языкам Python, Go, нужно работать через установку CLI
 * https://edabit.com/ - en задачки, можно решать на разных языках, включая Python, интерактивная проверка
 * https://coderun.yandex.ru/catalog - задачник от Яндекс, сборник алгоритмических заданий
+* https://phys.bspu.by/static/um/inf/prg/sem1/reshebnik/main.htm - онлайн задачник Окулов
 
 
 ## 14. IDE и online IDE
