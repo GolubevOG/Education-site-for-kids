@@ -81,12 +81,6 @@
 * https://ru.code-basics.com/ - задачник, разные языки программирования
 * https://interviewsandbox.com/ - проведение собеседования онлайн
   
-### Обучающие материалы от Яндекса
-https://academy.yandex.ru/handbook - Хэндбуки  Академии Яндекса
-https://academy.yandex.ru/handbook/python - основы Python от Яндекс
-https://academy.yandex.ru/handbook/cpp - основы C++ от Яндекс
-https://academy.yandex.ru/handbook/ml - учебник по машинному обучению от Яндекс
-https://coderun.yandex.ru/catalog - задачник
 
 ## 5.1 Обучение программированию на Python
 * https://codetheblocks.com/ - 3d кубики, различное рисование
@@ -127,6 +121,13 @@ https://coderun.yandex.ru/catalog - задачник
 * https://machinelearningforkids.co.uk/ - Машинное обучение для детей EN
 * https://ml-handbook.ru/ - учебник от Яндекс
 
+## 5.6 Обучающие материалы от Яндекса
+* https://academy.yandex.ru/handbook - Хэндбуки  Академии Яндекса
+* https://academy.yandex.ru/handbook/python - основы Python от Яндекс
+* https://academy.yandex.ru/handbook/cpp - основы C++ от Яндекс
+* https://academy.yandex.ru/handbook/ml - учебник по машинному обучению от Яндекс
+
+
 ## 6. Low-code NoCode
 * https://breshna.io/ - создание игр без кода или программирования
 * https://flowlab.io/ - Простой сервис по созданию игр онлайн без программирования
@@ -151,10 +152,11 @@ https://coderun.yandex.ru/catalog - задачник
 * http://www.algoanim.ide.sk/ - визуализация алгоритмов
 
 
-## 12. Сборник задач по разным языкам
+## 12. Сборник задач по разным языкам. Задачники.
 * https://app.codesignal.com/ - отличная подборка, целый трек по задачам, сразу проверка
 * https://exercism.io/ - en много разных задач по разным языкам Python, Go, нужно работать через установку CLI
 * https://edabit.com/ - en задачки, можно решать на разных языках, включая Python, интерактивная проверка
+* https://coderun.yandex.ru/catalog - задачник от Яндекс, сборник алгоритмических заданий
 
 
 ## 14. IDE и online IDE
@@ -205,6 +207,7 @@ https://coderun.yandex.ru/catalog - задачник
 * https://kenney.nl/assets - тайлы, сборник бесплатных assetов для игр
 * https://www.compumuseum.com/ - компьютерный музей онлайн с эмуляторами разных компьютеров
 * https://mularahul.github.io/keyviz/ - программа, которая визуализирует нажатия клавиш во время демонстраций
+* https://www.masswerk.at/keypunch/?home=1  - перфокарты в различных их видах
 
 ## 20. Рисование
 * https://bezier.method.ac/ - тренажер рисования кривыми
@@ -223,5 +226,9 @@ https://coderun.yandex.ru/catalog - задачник
 
 ## 22. Математика
 * https://sinerider.com/ - игра, где нужно правильно написать график функции, чтобы санки поехали правильно
+
+## 23. Игры. Логические игры
+* https://schibir.github.io/mineslitter/ - сапер наоборот
+* https://boolean.method.ac/ - круги Эйлера, объединение или исключение
 
 
