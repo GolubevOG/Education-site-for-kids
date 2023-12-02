@@ -18,7 +18,7 @@
 * https://www.mathplayground.com/ - подбрка математических игр
 * http://www.toxicode.fr/black_box - как работает черный ящик
 * https://playset.netlify.app/ - игра SET
-* https://github.com/readyready15728/awesome-programming-games - большая подборка программистких игр
+* https://github.com/readyready15728/awesome-programming-games - большая подборка программистких игр, сборник игр на программирование
 
 ## 2. Программирование для детей - игры
 * https://www.codemonkey.com/ - создание программ для мартышки много бесплатных уровней
