@@ -184,7 +184,8 @@
 * https://biteable.com/ - создание коротких роликов
 * https://sumo.app/ - множество онлайн инструментов, кисти, создание музыки, видеоредактор, 3d, создание собственных обучающих миров
 * https://genial.ly/ - создание интерактивных презентаций и самоучителей
-* https://estory.io/ - создение timeline 
+* https://estory.io/ - создение timeline
+* https://mylens.ai/ - создание timeline автоматически, только по текстовому запросу
 * https://commonmark.org/help/tutorial/ - интерактивный тренажер markdown
 * https://wordmint.com/ - создание кроссворда
 * https://www.compumuseum.com/ - компьютерный музей и эмуляцией разных компьютеров
